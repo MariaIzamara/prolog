@@ -78,5 +78,5 @@ Desenvolvimento de algumas aplicações usando a linguagem de programação Prol
  L = [1, 2, 3] .
  
 #### Execução:
-Para executar qualquer programa é necessário ter o [SWI-Prolog](http://www.swi-prolog.org) instalado no seu computador.
+Para executar qualquer programa é necessário ter o [SWI-Prolog](http://www.swi-prolog.org) instalado no seu computador.<br>
 Depois de instalado, basta abrir o terminal e executar **swipl nomedoarquivo.pl**
